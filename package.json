@@ -23,7 +23,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^12.2.13",
+    "@angular-devkit/build-angular": "^17.3.7",
     "@angular/compiler-cli": "^12.2.13",
     "@angular/platform-browser-dynamic": "^12.2.13",
     "@fluffy-spoon/substitute": "^1.202.0",
